@@ -1,7 +1,7 @@
 body {
   font-family: "Raleway";
 }
-header{
+header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
@@ -14,7 +14,7 @@ header{
   gap: 32px;
 }
 
-.header__link { 
+.header__link {
   font-weight: 400;
   font-size: 18px;
   line-height: 100%;
@@ -50,7 +50,7 @@ header{
 }
 
 .header__address {
-  justify-self: end; 
+  justify-self: end;
   max-width: 240px;
 }
 
@@ -218,7 +218,6 @@ line-height: 120%;
 
 .more {
 display: block;
-margin-top: 20px;
 margin-top: 29.2px;
 margin-left: 40px;
 font-weight: 400;
@@ -278,7 +277,7 @@ footer {
 }
 
 .footer__address {
-  justify-self: start; 
+  justify-self: start;
   max-width: 240px;
 }
 
