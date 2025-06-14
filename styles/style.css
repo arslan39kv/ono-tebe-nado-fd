@@ -1,5 +1,5 @@
 body {
-  font-family: "Raleway";
+  font-family: 'Raleway', 'Arial';
 }
 header {
   display: grid;
@@ -60,7 +60,7 @@ header {
   width: 100%;
   padding: 166px 50px 52px;
   color: rgb(254, 254, 254);
-  background-image: url("/images/cover.jpg");
+  background-image: url(/images/cover.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
